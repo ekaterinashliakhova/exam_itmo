@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+python-telegram-bot>=20.0
+fuzzywuzzy[speedup]
+python-Levenshtein
+pdfminer.six
+tabula-py
+camelot-py[cv]
+pandas
